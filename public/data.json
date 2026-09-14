@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "playerName": "Shakib Al Hasan",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV14ep0nWWJMFFZtjp1fDKmmwxaRp_s8gnha8lvEsS_jePU_6nSvge9sMG8udK4GbnBpYW58c9kzXvedr29pq1GdXPQe3bqtHSKebnf30&s=10",
+    "alt": "Shakib Al Hasan",
+    "origin": "Bangladesh",
+    "PlayerType": "All-Rounder",
+    "bowlingStyle": "Slow Left-Arm Orthodox",
+    "battingStyle": "Left-Handed",
+    "price": 850
+  },
+  {
+    "id": 2,
+    "playerName": "Tamim Iqbal",
+    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Tamim_Iqbal_Khan_in_2019_(cropped).jpg",
+    "alt": "Tamim Iqbal",
+    "origin": "Bangladesh",
+    "PlayerType": "Batsman",
+    "bowlingStyle": "Right-Arm Medium",
+    "battingStyle": "Left-Handed",
+    "price": 750
+  },
+  {
+    "id": 3,
+    "playerName": "Mushfiqur Rahim",
+    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Mushfiqur_Rahim_2024_(cropped).jpg",
+    "alt": "Mushfiqur Rahim",
+    "origin": "Bangladesh",
+    "PlayerType": "Wicket-Keeper Batsman",
+    "bowlingStyle": "Right-Arm Medium",
+    "battingStyle": "Right-Handed",
+    "price": 700
+  },
+  {
+    "id": 4,
+    "playerName": "Mahmudullah",
+    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahmudullah_Riyad_(1).jpg",
+    "alt": "Mahmudullah",
+    "origin": "Bangladesh",
+    "PlayerType": "All-Rounder",
+    "bowlingStyle": "Right-Arm Off Break",
+    "battingStyle": "Right-Handed",
+    "price": 650
+  },
+  {
+    "id": 5,
+    "playerName": "Mustafizur Rahman",
+    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Mustafizur_Rahman_(1).jpg",
+    "alt": "Mustafizur Rahman",
+    "origin": "Bangladesh",
+    "PlayerType": "Bowler",
+    "bowlingStyle": "Left-Arm Fast Medium",
+    "battingStyle": "Left-Handed",
+    "price": 600
+  },
+  {
+    "id": 6,
+    "playerName": "Taskin Ahmed",
+    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Taskin_Ahmed_at_Chef%27s_Table.png",
+    "alt": "Taskin Ahmed",
+    "origin": "Bangladesh",
+    "PlayerType": "Bowler",
+    "bowlingStyle": "Right-Arm Fast",
+    "battingStyle": "Right-Handed",
+    "price": 550
+  },
+  {
+    "id": 7,
+    "playerName": "Mehidy Hasan Miraz",
+    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Mehidy_Hasan_Miraz_(1).jpg",
+    "alt": "Mehidy Hasan Miraz",
+    "origin": "Bangladesh",
+    "PlayerType": "All-Rounder",
+    "bowlingStyle": "Right-Arm Off Break",
+    "battingStyle": "Right-Handed",
+    "price": 620
+  },
+  {
+    "id": 8,
+    "playerName": "Litton Das",
+    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Liton_Das_(1).jpg",
+    "alt": "Litton Das",
+    "origin": "Bangladesh",
+    "PlayerType": "Wicket-Keeper Batsman",
+    "bowlingStyle": "Right-Arm Medium",
+    "battingStyle": "Right-Handed",
+    "price": 680
+  },
+  {
+    "id": 9,
+    "playerName": "Virat Kohli",
+    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Virat_Kohli.jpg",
+    "alt": "Virat Kohli",
+    "origin": "India",
+    "PlayerType": "Batsman",
+    "bowlingStyle": "Right-Arm Medium",
+    "battingStyle": "Right-Handed",
+    "price": 100
+  },
+  {
+    "id": 10,
+    "playerName": "Rohit Sharma",
+    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Rohitsharma.jpg",
+    "alt": "Rohit Sharma",
+    "origin": "India",
+    "PlayerType": "Batsman",
+    "bowlingStyle": "Right-Arm Off Break",
+    "battingStyle": "Right-Handed",
+    "price": 950
+  },
+  {
+    "id": 11,
+    "playerName": "Jasprit Bumrah",
+    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Jasprit_Bumrah.jpg",
+    "alt": "Jasprit Bumrah",
+    "origin": "India",
+    "PlayerType": "Bowler",
+    "bowlingStyle": "Right-Arm Fast",
+    "battingStyle": "Right-Handed",
+    "price": 900
+  },
+  {
+    "id": 12,
+    "playerName": "Ravindra Jadeja",
+    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Ravindra_Jadeja_in_PMO_New_Delhi.jpg",
+    "alt": "Ravindra Jadeja",
+    "origin": "India",
+    "PlayerType": "All-Rounder",
+    "bowlingStyle": "Slow Left-Arm Orthodox",
+    "battingStyle": "Left-Handed",
+    "price": 880
+  },
+  {
+    "id": 13,
+    "playerName": "Babar Azam",
+    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Babar_Azam.png",
+    "alt": "Babar Azam",
+    "origin": "Pakistan",
+    "PlayerType": "Batsman",
+    "bowlingStyle": "Right-Arm Off Break",
+    "battingStyle": "Right-Handed",
+    "price": 920
+  },
+  {
+    "id": 14,
+    "playerName": "Shaheen Afridi",
+    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Shaheen_Afridi.jpg",
+    "alt": "Shaheen Afridi",
+    "origin": "Pakistan",
+    "PlayerType": "Bowler",
+    "bowlingStyle": "Left-Arm Fast",
+    "battingStyle": "Left-Handed",
+    "price": 850
+  },
+  {
+    "id": 15,
+    "playerName": "Mohammad Rizwan",
+    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Mohammad_Rizwan.png",
+    "alt": "Mohammad Rizwan",
+    "origin": "Pakistan",
+    "PlayerType": "Wicket-Keeper Batsman",
+    "bowlingStyle": "Right-Arm Medium",
+    "battingStyle": "Right-Handed",
+    "price": 780
+  },
+  {
+    "id": 16,
+    "playerName": "Ben Stokes",
+    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Ben_Stokes.jpg",
+    "alt": "Ben Stokes",
+    "origin": "England",
+    "PlayerType": "All-Rounder",
+    "bowlingStyle": "Left-Arm Fast Medium",
+    "battingStyle": "Left-Handed",
+    "price": 980
+  },
+  {
+    "id": 17,
+    "playerName": "Joe Root",
+    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Joe_root.jpg",
+    "alt": "Joe Root",
+    "origin": "England",
+    "PlayerType": "Batsman",
+    "bowlingStyle": "Right-Arm Off Break",
+    "battingStyle": "Right-Handed",
+    "price": 900
+  },
+  {
+    "id": 18,
+    "playerName": "Jos Buttler",
+    "playerImg": "https://commons.wikimedia.org/wiki/Special:FilePath/Jos_buttler.JPG",
+    "alt": "Jos Buttler",
+    "origin": "England",
+    "PlayerType": "Wicket-Keeper Batsman",
+    "bowlingStyle": "Right-Arm Medium",
+    "battingStyle": "Right-Handed",
+    "price": 880
+  }
+]
