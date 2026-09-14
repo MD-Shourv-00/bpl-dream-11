@@ -25,7 +25,7 @@ const SelectedPlayerCard = ({
 
         const backCoin: number = coin + rPlayer.price;
         setCoin(backCoin);
-
+        // toast add
         toast.warning(`Remove player Successful. Now balance is: ${coin}`);
     }
 
