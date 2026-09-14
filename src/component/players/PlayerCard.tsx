@@ -1,4 +1,4 @@
-import { useState, type Dispatch, type SetStateAction } from "react";
+import { type Dispatch, type SetStateAction } from "react";
 import type { TypeOfPlayer } from "../../type/type";
 import { IoManSharp } from "react-icons/io5";
 import { toast } from "react-toastify";

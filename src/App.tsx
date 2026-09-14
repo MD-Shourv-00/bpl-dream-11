@@ -7,7 +7,7 @@ import Footer from "./component/Footer";
 import { ToastContainer, Zoom } from "react-toastify";
 
 const playerFetch = async (): Promise<TypeOfPlayer[]> => {
-  const res = await fetch("../public/data.json");
+  const res = await fetch("/data.json");
   const data = await res.json();
   return data;
 };
