@@ -1,4 +1,4 @@
-project live link: https://transcendent-torte-27d24f.netlify.app/
+project live link: https://bpl-buy-player.netlify.app/
 
 # React + TypeScript + Vite
 
